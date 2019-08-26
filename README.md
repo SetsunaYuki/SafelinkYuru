@@ -1,0 +1,2 @@
+# SafelinkYuru
+safelink
